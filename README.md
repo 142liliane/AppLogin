@@ -31,12 +31,12 @@
 > O design é minimalista e fácil de usar, com foco na simplicidade.
 
 ## Telas do Aplicativo 3
-> **Tela Principal**
+> **Tela Principal:**
 > Na tela principal, o usuário escolhe entre registra e entrar.
-> **tela de registro**
+> **tela de registro:**
 > Na tela de registro, o usuário insere: nome, login, senha e repete a senha.
 > Por final, apenas salva.
-> **Tela login**
+> **Tela login:**
 > Na tela login, o usuário insere: login e senha.
 
 ## Desenvolvedores
